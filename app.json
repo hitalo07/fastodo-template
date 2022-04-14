@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "myshopping",
-    "slug": "myshopping",
-    "version": "1.0.0",
+    "name": "fastodo",
+    "slug": "fastodo",
+    "version": "0.0.1",
     "assetBundlePatterns": [
       "**/*"
     ],
@@ -15,5 +15,5 @@
       ]
     ]
   },
-  "name": "myshopping"
+  "name": "fastodo"
 }
